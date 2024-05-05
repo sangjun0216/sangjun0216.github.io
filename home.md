@@ -1,0 +1,3 @@
+# Sangjun Ko
+
+Welcome! Welcome! Why are you here? I am a second-year math PhD student at Pennsylvania State University. I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a [duck hat](https://www.sangjunko.com/pic_duck.jpg). (In fact, <duck@psu.edu> is one of my email aliases!)
