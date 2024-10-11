@@ -1,8 +1,7 @@
 ---
 layout: default
+titlw: Student Geometry/PDE Seminar, Fall 2024
 ---
-
-# Student Geometry/PDE Seminar, Fall 2024
 
 Welcome to the Graduate Student Geometry/PDE Seminar webpage! We will be meeting weekly on **Thursday, 5:30pm--7:30pm in 315 McAllister Building**. 
 
