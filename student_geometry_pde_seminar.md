@@ -1,6 +1,6 @@
 
 
-# Student Geometry/PDE Seminar, Fall 2024
+
 
 Welcome to the Graduate Student Geometry/PDE Seminar webpage! We will be meeting weekly on **Thursday, 5:30pm--7:30pm in 315 McAllister Building**. 
 
@@ -12,7 +12,7 @@ Welcome to the Graduate Student Geometry/PDE Seminar webpage! We will be meeting
 
 ## Abstracts
 
-### 10/17/24: Nonlinear Sigma Models (Jake Canel)
+#### 10/17/24: Nonlinear Sigma Models (Jake Canel)
 
 How can one study the set of maps from a Riemannian manifold, say the n-sphere, to a highly symmetric manifold, say either a Lie group or its quotients? This question has many answers: homotopy theory, group theory, and geometry all give slightly different suggestions, and many of these are unified through the lens of the Nonlinear Sigma Model.
 
