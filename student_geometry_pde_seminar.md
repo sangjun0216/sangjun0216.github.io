@@ -22,4 +22,4 @@ Originating in the physics literature (Gell-Man and Levy 1960), and finding use 
  - Classical, PDE based approaches to this set of maps, corresponding to the classical Nonlinear Sigma Model
  - Statistical, perturbative approaches, more closely corresponding to the quantum case
 
-Both of these discussions will illuminate the beautiful relationship between topology, analysis, and geometry, and hopefully provide motivation for this seminar going forward.
+Both of these discussions will illuminate the beautiful relationship between topology, analysis, and geometry, and hopefully provide motivation for this seminar going forward. 
