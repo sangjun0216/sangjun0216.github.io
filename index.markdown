@@ -22,8 +22,11 @@ My curriculum vitae can be found [here](cv.pdf).
 
 My current interests are in differential geometry and Lie theory. 
 
+In September 2024 I will be attending the [GAP XIX conference](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html) in Rome. 
+
 ## Teaching
 
+- Fall 2024: Grader for Math 220H (Matrices).
 - Spring 2024: Math 251 (Ordinary and Partial Differential Equations), Section 5. [Teaching Evaluations](SEEQInstructorReport_SP24Section5.pdf).
 - Fall 2023: Math 251 (Ordinary and Partial Differential Equations), Sections 6 and 16. [Teaching Evaluations for Section 6](SEEQInstructorReport_FA23Section6.pdf) and [for Section 16](SEEQInstructorReport_FA23Section16.pdf).
 - Summer 2023: TA for Math 451 (Numerical Computations).
