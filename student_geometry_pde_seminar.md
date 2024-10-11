@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Student Geometry/PDE Seminar, Fall 2024
 
