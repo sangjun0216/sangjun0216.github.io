@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![a picture of me](DSC_1230.jpg "Ko,Sangjun-2.jpg"){: width="200" }
+![a picture of me](Ko,Sangjun-2.jpg "Ko,Sangjun-2.jpg"){: width="200" }
 
 Welcome! Why are you here? I am a second-year math PhD student at Pennsylvania State University.  I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a duck hat like the one in the above photo.  
 
