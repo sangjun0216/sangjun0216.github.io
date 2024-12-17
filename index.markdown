@@ -5,9 +5,9 @@
 layout: default
 ---
 
-![a picture of me](DSC_1230.jpg "Sangjun Ko"){: width="200" }
+![a picture of me](DSC_1230.jpg "Ko,Sangjun-2.jpg"){: width="200" }
 
-Welcome! Why are you here? I am a second-year math PhD student at Pennsylvania State University.  I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a [duck hat](pic_duck.jpg).  
+Welcome! Why are you here? I am a second-year math PhD student at Pennsylvania State University.  I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a duck hat like the one in the above photo.  
 
 ## Basic Info
 
@@ -22,7 +22,7 @@ My curriculum vitae can be found [here](cv.pdf).
 
 My current interests are in differential geometry and Lie theory. 
 
-In September 2024 I will be attending the [GAP XIX conference](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html) in Rome. 
+In September 2024 I was at the [GAP XIX conference](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html) in Rome. 
 
 ## Teaching
 
