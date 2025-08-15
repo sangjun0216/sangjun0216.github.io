@@ -7,7 +7,7 @@ layout: default
 
 ![a picture of me](Ko,Sangjun-2.jpg "Ko,Sangjun-2.jpg"){: width="200" }
 
-Welcome! Why are you here? I am a second-year math PhD student at Pennsylvania State University.  I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a duck hat like the one in the above photo.  
+Welcome! Why are you here? I am a fourth-year math PhD student at Pennsylvania State University.  I did my undergrad at Rutgers University - New Brunswick, and I majored in math and computer science with a minor in Japanese. If you ever see me on campus, say hi! I'll probably be wearing a duck hat like the one in the above photo.  
 
 ## Basic Info
 
@@ -26,6 +26,8 @@ In September 2024 I was at the [GAP XIX conference](https://www1.mat.uniroma1.it
 
 ## Teaching
 
+- Fall 2025: Math 41 (Trigonometry and Analytic Geometry), Sections 6 and 7.
+- Spring 2025: Grader for Math 451 (Introduction to Analysis I).
 - Fall 2024: Grader for Math 220H (Matrices).
 - Spring 2024: Math 251 (Ordinary and Partial Differential Equations), Section 5. [Teaching Evaluations](SEEQInstructorReport_SP24Section5.pdf).
 - Fall 2023: Math 251 (Ordinary and Partial Differential Equations), Sections 6 and 16. [Teaching Evaluations for Section 6](SEEQInstructorReport_FA23Section6.pdf) and [for Section 16](SEEQInstructorReport_FA23Section16.pdf).
